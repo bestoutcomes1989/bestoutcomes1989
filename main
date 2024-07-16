@@ -1,0 +1,29 @@
+- This is a Multilingual app that invokes the Fifth Amendment rightMobile App (React Native):
+- /components (UI components)
+- /screens (app screens)
+- /utils (utility functions)
+- /api (API integrations)
+- App.js (main app file
+Desktop App (Xamarin/.NET):
+- /Views (UI views)
+- /ViewModels (view models)
+- /Models (data models)
+- /Services (business logic)
+- App.xaml (main app file)
+
+UI component iReact Native:
+// components/InvocationButton.js
+import React from 'react';
+import { View, Button } from 'react-native';
+
+const InvocationButton = () => {
+  return (
+    <View>
+      <Button title="Invoke Fifth Amendment" />
+    </View>
+  );
+};
+
+export default InvocationButton;
+
+Similarly, I can provide code snippets for other features and files. Just let me know what you need help with!
